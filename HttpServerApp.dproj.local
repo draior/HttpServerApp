@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.623,C:\_Repository\HttpServer\HttpServerApp.dproj=C:\_Repository\HttpServer\AvenirSrvApp.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.339,C:\_Repository\HttpServer\Unit1.pas=C:\_Repository\HttpServer\JsonSale.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.139,=C:\_Repository\HttpServer\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
